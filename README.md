@@ -9,6 +9,7 @@ distinguish between glaucomic and non-glaucomic image patterns for diagnostic de
 To use the code on a local machine setup the libraries such as keras.
 Use the retinal fundus images of size 512x512 for prediction.
 Change the paths of input images and model weights in the script.
+Run the script.
 
 
 ## Setup on google colab
